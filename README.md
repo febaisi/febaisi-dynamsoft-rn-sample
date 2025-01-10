@@ -1,4 +1,3 @@
-# Forget about the 2 part of this README
 ## Dynamsoft Sample was not working so I added it on top of a fresh RN App
 
 - npm install
